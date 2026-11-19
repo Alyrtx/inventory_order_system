@@ -1,0 +1,26 @@
+[
+    {
+        "product_id": 101,
+        "name": "Pen",
+        "price": 2,
+        "stock": 40
+    },
+    {
+        "product_id": 102,
+        "name": "Book",
+        "price": 20,
+        "stock": 4
+    },
+    {
+        "product_id": 103,
+        "name": "Shoes",
+        "price": 80,
+        "stock": 3
+    },
+    {
+        "product_id": 104,
+        "name": "Monitor",
+        "price": 250,
+        "stock": 1
+    }
+]
